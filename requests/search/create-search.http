@@ -1,0 +1,9 @@
+
+POST http://localhost:8080/search HTTP/1.1
+content-type: application/json
+
+{
+   "district": "Vila Ribeiro",
+   "researcherName": "Gabriel",
+   "researchedName": "Riquelme"
+}

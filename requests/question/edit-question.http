@@ -1,0 +1,8 @@
+
+PUT http://localhost:8080/question/edit/115ee402-16ea-4564-8aa1-c3fff5c28f2a HTTP/1.1
+content-type: application/json
+
+{
+    "question": "Testando.",
+    "answer": "É isso!"
+}

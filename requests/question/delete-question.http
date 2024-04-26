@@ -1,0 +1,7 @@
+
+DELETE http://localhost:8080/question/delete/ce7c49d0-5721-418c-801d-a9036a4988b1 HTTP/1.1
+content-type: application/json
+
+{
+   "idSearch": "78174d06-735a-48e6-998a-d47c2e7b9141"
+}

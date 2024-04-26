@@ -1,0 +1,9 @@
+
+POST http://localhost:8080/question HTTP/1.1
+content-type: application/json
+
+{
+   "idSearch": "d6fb6713-83fb-4dc8-898a-b29c53a20a2b",
+   "question": "adad?",
+   "answer": "Bom"
+}
